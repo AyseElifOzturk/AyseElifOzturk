@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AyseElifOzturk
 - 📚 I'm studying Computer Engineering
 - ⭐ Here is my linkedin page! www.linkedin.com/in/ayşe-elif-öztürk-25270a236
-- 👀 I’m like c, c++ and javascript
+- 👀 I like c, c++ and javascript
 - 🌱 I’m currently learning java
 
 <!---
