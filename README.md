@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AyseElifOzturk
 - 📚 I'm studying Computer Engineering
 - ⭐ Here is my linkedin page! www.linkedin.com/in/ayşe-elif-öztürk-25270a236
-- 👀 I like c, c++ and javascript
-- 🌱 I’m currently learning java
+- 👀 I like c, c++, java and javascript
+- 🌱 I’m currently learning java and SQL
 
 <!---
 AyseElifOzturk/AyseElifOzturk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
